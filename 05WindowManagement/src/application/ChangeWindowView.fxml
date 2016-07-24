@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane prefHeight="300.0" prefWidth="500.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8" fx:controller="application.ChangeWindowController">
+   <children>
+      <Label layoutX="222.0" layoutY="41.0" text="New Window" />
+      <Button layoutX="232.0" layoutY="125.0" mnemonicParsing="false" onAction="#goBack" text="back" />
+   </children>
+</AnchorPane>
