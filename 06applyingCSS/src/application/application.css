@@ -9,6 +9,20 @@
 }
 
 #textField{
+	-fx-font-family: "Futura";
 	-fx-background-color: #EEEEEEEE;
 }
 
+#okButton{
+	-fx-font-family: "Futura";
+	-fx-background-color: #ffb74d;
+}
+
+#cancelButton{
+	-fx-font-family: "Futura";
+	-fx-background-color: #ffb74d;
+}
+
+#firstNameField{
+	-fx-font-family: "Futura";
+}
