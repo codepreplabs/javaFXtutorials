@@ -4,6 +4,7 @@ import javafx.stage.Stage;
 
 public class SecondWindowController {
 	
+	@SuppressWarnings("unused")
 	private Main main;
 	private Stage secondaryStage;
 

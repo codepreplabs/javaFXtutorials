@@ -6,6 +6,7 @@ import javafx.scene.control.TextField;
 
 public class MainWindowController {
 	
+	@SuppressWarnings("unused")
 	private Main main;
 	
 	@FXML

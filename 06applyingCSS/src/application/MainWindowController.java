@@ -8,6 +8,7 @@ import javafx.scene.layout.Region;
 
 public class MainWindowController {
 	
+	@SuppressWarnings("unused")
 	private Main main;
 	
 	@FXML

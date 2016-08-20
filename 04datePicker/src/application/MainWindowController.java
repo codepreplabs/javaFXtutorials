@@ -7,6 +7,7 @@ import javafx.scene.control.DatePicker;
 
 public class MainWindowController {
 	
+	@SuppressWarnings("unused")
 	private Main main;
 	
 	@FXML

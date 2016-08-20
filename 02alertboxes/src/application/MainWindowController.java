@@ -9,6 +9,7 @@ import javafx.scene.control.TextInputDialog;
 
 public class MainWindowController {
 	
+	@SuppressWarnings("unused")
 	private Main main;
 	
 	public void setMain(Main main){

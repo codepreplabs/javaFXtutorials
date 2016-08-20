@@ -4,6 +4,7 @@ import javafx.stage.Stage;
 
 public class ChangeWindowController {
 
+	@SuppressWarnings("unused")
 	private Main main;
 	private Stage tertiaryStage;
 

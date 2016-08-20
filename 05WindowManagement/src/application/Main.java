@@ -12,6 +12,7 @@ import javafx.stage.Stage;
 public class Main extends Application {
 
 	private Stage primaryStage;
+	@SuppressWarnings("unused")
 	private Stage secondaryStage;
 
 	@Override
